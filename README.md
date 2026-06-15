@@ -18,11 +18,14 @@ https://www.youtube.com/watch?v=U-JlXWDqvco
 2. Conversion Rate Through funnel
    - Overall conversion rate = 16%
    - view_to_cart = 31%, cart_to_checkout = 71%, checkout_to_payment = 81%, payment_to_purchase = 91%
-   - The view_to_cart conversion rate is significantly lower than every other stage. though it depends on industry, this suggests possible bottlenecks early in the funnel. For example, it would be worth investigating if the marketing efforts via current traffic sources are reaching the right audience.
+   - The view_to_cart conversion rate is significantly lower than every other stage. though it depends on industry, this suggests possible bottlenecks early in the funnel.
+   - It would be worth investigating if the marketing efforts via current traffic sources are reaching the right audience.
    
-4. Funnel by Traffic Source
-5. Time-To-Conversion Analysis
-6. Revenue Funnel Analysis
+3. Funnel by Traffic Source
+
+
+4. Time-To-Conversion Analysis
+5. Revenue Funnel Analysis
 
 
 ## Recommendation
