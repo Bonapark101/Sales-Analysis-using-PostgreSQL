@@ -24,7 +24,8 @@ https://www.youtube.com/watch?v=U-JlXWDqvco
 3. Funnel by Traffic Source
    -  Email is the most effective traffic source with a 62% view_to_cart_conversion_rate.
    -  Social is the least effective traffic source with a 13% view_to_cart_conversion_rate.
-     *In regards to volumes, social drives three times higher traffic than email, the conversion rate of the social is only 13%.
+
+      *In regards to volumes, social drives three times higher traffic than email, the conversion rate of the social is only 13%.
    -  The cart_to_purchase_conversion_rate shows a balanced rate across the traffic sources, averaging around 53%. In this case, view_to_cart_conversion_rate is meaningful stage in determining whether a user goes on to purchase.
    -  The conversion rate of view_to_purchase drops significantly across all traffic source compares to view_to_cart.
    - It would be worth auditing marketing campaigns for social to find bottlenecks. Additionally, analysing user behaviour across email and social could provide insights for the marketing team to inform the future campaigns.
