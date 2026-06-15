@@ -4,8 +4,10 @@ Analysis of a mock sales dataset to identify sales performance throughout the fu
 
 *Note: This is a **mock portfolio project** designed to practice and demonstrate SQL querying capabilities and business intelligence extraction.*
 
-Built following a tutorial by loresowhat (conducted by GoogleCloud), with my own modifications(PostgreSQL)
+- Built following a tutorial by loresowhat (conducted by GoogleCloud), with my own modifications(PostgreSQL)
 https://www.youtube.com/watch?v=U-JlXWDqvco
+
+- ## Analysis and Recommendation are my own
 
 ## Dataset
 Columns: event_id, user_id, event_type, event_date, product_id, amount, traffic_source
