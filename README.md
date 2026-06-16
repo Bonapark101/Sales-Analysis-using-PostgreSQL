@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=U-JlXWDqvco
 
 - Analysis and Recommendations are my own
 
-## Analyses
+## Analysis
 1. Funel Overview
     - Each row represent end-to-end purchase data, including how much revenue earned from what
     product via which traffic source.
